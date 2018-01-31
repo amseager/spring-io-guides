@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gs-rest-service/gs-rest-service.iml" filepath="$PROJECT_DIR$/gs-rest-service/gs-rest-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-io-guides.iml" filepath="$PROJECT_DIR$/spring-io-guides.iml" />
     </modules>
   </component>
