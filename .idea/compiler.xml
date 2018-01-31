@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gs-rest-service" target="1.5" />
-      <module name="spring-io-guides" target="1.5" />
+      <module name="gs-rest-service" target="1.8" />
+      <module name="spring-io-guides" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
