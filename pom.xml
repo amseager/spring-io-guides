@@ -7,6 +7,9 @@
     <groupId>io.spring</groupId>
     <artifactId>spring-io-guides</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>gs-rest-service</module>
+    </modules>
 
     <packaging>pom</packaging>
 
@@ -25,5 +28,4 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 </project>
