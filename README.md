@@ -1,0 +1,1 @@
+Solutions for Spring guides from https://spring.io/guides/.
