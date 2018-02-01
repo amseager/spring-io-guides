@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gs-rest-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gs-testing-web" charset="UTF-8" />
   </component>
 </project>
