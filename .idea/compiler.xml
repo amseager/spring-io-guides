@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gs-relational-data-access" />
         <module name="gs-rest-service" />
         <module name="gs-testing-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gs-relational-data-access" target="1.8" />
       <module name="gs-rest-service" target="1.8" />
       <module name="gs-testing-web" target="1.8" />
       <module name="spring-io-guides" target="1.8" />
