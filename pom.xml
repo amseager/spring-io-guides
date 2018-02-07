@@ -13,6 +13,7 @@
         <module>gs-relational-data-access</module>
         <module>gs-accessing-data-jpa</module>
         <module>gs-caching</module>
+        <module>gs-rest-hateoas</module>
     </modules>
 
     <packaging>pom</packaging>
