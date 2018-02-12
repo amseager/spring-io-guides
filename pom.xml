@@ -15,6 +15,7 @@
         <module>gs-caching</module>
         <module>gs-rest-hateoas</module>
         <module>gs-securing-web</module>
+        <module>gs-authenticating-ldap</module>
     </modules>
 
     <packaging>pom</packaging>
